@@ -1,0 +1,21 @@
+.navbar{
+    background-color: rgb(86, 74, 223);
+    color: white;
+}
+.arrow{
+    color: rgb(219, 64, 121);
+    font-size: 20px;
+}
+.info{
+    font-size: 20px;
+}
+.box{
+    display: block;
+    clear: both;
+}
+.name{
+    float:left
+}
+.infos{
+    float:right
+}
