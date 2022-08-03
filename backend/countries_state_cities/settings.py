@@ -59,7 +59,7 @@ MIDDLEWARE = [
 ]
 CORS_ORIGIN_ALLOW_ALL = True
 
-ALLOWED_HOSTS = ['countries-cities-states.herokuapp.com']
+
 
 ROOT_URLCONF = 'countries_state_cities.urls'
 
